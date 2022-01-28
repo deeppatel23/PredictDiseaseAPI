@@ -1,5 +1,5 @@
 flask
-tensorflow
+tensorflow-cpu
 Pillow
 tensorflow-io-gcs-filesystem==0.23.1
 gunicorn
