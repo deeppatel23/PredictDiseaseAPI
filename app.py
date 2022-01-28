@@ -1,4 +1,3 @@
-import uuid
 import io
 import flask
 from PIL import Image
