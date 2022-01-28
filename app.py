@@ -1,7 +1,6 @@
 import uuid
 import io
 import flask
-import urllib
 from PIL import Image
 from tensorflow.keras.models import load_model
 from flask import Flask , render_template  , request , send_file, jsonify
