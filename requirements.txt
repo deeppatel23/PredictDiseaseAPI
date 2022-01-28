@@ -3,7 +3,7 @@ numpy
 sklearn
 flask
 tensorflow
-PIL
+Pillow
 uuid
 io
 urllib
